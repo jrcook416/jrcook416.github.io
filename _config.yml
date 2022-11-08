@@ -54,5 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-page_excerpts:true
+show_excerpts: true
