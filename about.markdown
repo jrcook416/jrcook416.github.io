@@ -14,7 +14,7 @@ My journey has taken me plenty of places, from campsites all across Central Indi
 
 I started my Informatics and Information Technology career as a Help Desk Associate, working Tier I support at the Office of Instructional Technology at the [University of Evansville](https://evansville.edu).  From OIT, I was recruited to WUEV-FM, UE’s radio station as their Director of Innovative Communication Technology.  Later at UE, I picked up three months running the Sports department at The Crescent, UE’s student newspaper, before struggling with my own mental illness and coming home to Indianapolis.
 
-I worked some odd-jobs after coming home, including six months as a Out-States dispatcher at AAA Hoosier Motor Club, before joining the staff at the [IUPUI] (https://iupui.edu) Department of Computer Science as the lead student engineer at the IUPUI Streaming Media Lab.  I was set to go after a Master’s in Informatics and New Media before one of our National Science Foundation projects was cancelled and my position was eliminated.
+I worked some odd-jobs after coming home, including six months as a Out-States dispatcher at AAA Hoosier Motor Club, before joining the staff at the [IUPUI](https://iupui.edu) Department of Computer Science as the lead student engineer at the IUPUI Streaming Media Lab.  I was set to go after a Master’s in Informatics and New Media before one of our National Science Foundation projects was cancelled and my position was eliminated.
 
 I worked in the restaurant business from graduation until my winding path led me to IEMS, where I have been for 11 years and 7 months, as of this writing.
 
