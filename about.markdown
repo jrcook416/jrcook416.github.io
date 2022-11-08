@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img align="right" src="assets/thumbs-up.jpg">
+<img align="right" src="assets/thumbs-up.JPG">
 
 Hi! I’m Jeremiah!
 
