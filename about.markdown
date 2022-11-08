@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img align="right" src="assets/thumbs-up.jpg">
+
 Hi! I’m Jeremiah!
 
 If you’re here, you’ve seen my work, web address, or just randomly stumbled across this dark, blind corner of the Internet.  At present, I am the Inventory System Specialist at Indianapolis EMS in Indianapolis, Indiana.
