@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![My helpful screenshot](/assets/thumbs-up.JPG)
+![My helpful screenshot](/assets/thumbs-up.JPG){: width="250" }
 
 Hi! I’m Jeremiah!
 
