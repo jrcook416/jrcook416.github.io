@@ -21,9 +21,8 @@
 title: jrcookandassociates.net
 email: KC9CQJ@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collection of writing and observations from my 20-plus years in streaming media and Internet tech, 15-plus years in public safety, and 40-plus years of life.
+  Some witty, or dark, bright, or sad; some from the other side of the universe; and some from right down the middle.
 domain: "jrcook416.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jrcook416.github.io" # the base hostname & protocol for your site, e.g. http://example.com
