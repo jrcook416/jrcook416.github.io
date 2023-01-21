@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img align = "right" src="/assets/2023-redcap/jpg" width="250" alt="a way 
-younger me...">
+<img align = "right" src="/assets/2023-redcap.jpg" width="250" alt="me, today...">
 
 Hi! I’m Jeremiah!
 
