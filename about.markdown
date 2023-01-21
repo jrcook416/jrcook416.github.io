@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img align = "right" src="/assets/thumbs-up.JPG" width="250" alt="a way 
+<img align = "right" src="/assets/2023-redcap/jpg" width="250" alt="a way 
 younger me...">
 
 Hi! I’m Jeremiah!
@@ -12,6 +12,8 @@ If you’re here, you’ve seen my work, web address, or just randomly stumbled 
 
 My journey has taken me plenty of places, from campsites all across Central Indiana, to the Kiel Center in St. Louis, from computer labs Downtown, to fire department training rooms across our great state.  I have two degrees which I earned backwards - a Bachelor of Arts in Political Science from IUPUI, and an Associate’s of Applied Science in Fire Science (Magna cum Laude) from Ivy Tech Community College of Indiana.
 
+<img align = "right" src="/assets/thumbs-up.JPG" width="250" alt="a way 
+younger me...">
 I started my Informatics and Information Technology career as a Help Desk Associate, working Tier I support at the Office of Instructional Technology at the [University of Evansville](https://evansville.edu).  From OIT, I was recruited to WUEV-FM, UE’s radio station as their Director of Innovative Communication Technology.  Later at UE, I picked up three months running the Sports department at The Crescent, UE’s student newspaper, before struggling with my own mental illness and coming home to Indianapolis.
 
 I worked some odd-jobs after coming home, including six months as a Out-States dispatcher at AAA Hoosier Motor Club, before joining the staff at the [IUPUI](https://iupui.edu) Department of Computer Science as the lead student engineer at the IUPUI Streaming Media Lab.  I was set to go after a Master’s in Informatics and New Media before one of our National Science Foundation projects was cancelled and my position was eliminated.
