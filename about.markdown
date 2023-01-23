@@ -30,5 +30,5 @@ Welcome!
 
 --J
 <center>
-<h3>I am a proud member of these fire service training organizations:</h3>
-<img src="/assets/ISFSI-logo.JPG" width="150" style="margin:16px;" alt="ISFSI Member Logo"><img src="/assets/ifia-large.jpg" width="150" style="margin:16px;" alt="IFIA Member Logo"></center>
+I am a proud member of these fire service training organizations:
+<img src="/assets/ISFSI-logo.JPG" width="150" style="margin:16px;" alt="ISFSI Member Logo"><img src="/assets/ifia-large.jpg" width="200" style="margin:16px;" alt="IFIA Member Logo"><br>The International Society of Fire Service Instructors -- The Indiana Fire Instructors Association</center>
