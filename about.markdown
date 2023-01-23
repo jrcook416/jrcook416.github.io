@@ -29,3 +29,7 @@ This website is a living, breathing thing.  It is my mark, my legacy, that I’v
 Welcome! 
 
 --J
+
+<h3>I am a proud member of these fire service training organizations:</h3>
+<img src="/assets/ISFSI-logo.JPG" width="150" style="margin:16px;" alt="ISFSI Member Logo">
+<img src="/assets/ifia-large.jpg" width="150" style="margin:16px;" alt="IFIA Member Logo">
