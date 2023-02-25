@@ -4,4 +4,4 @@
 
 layout: home
 ---
-this is a test :-) 
+Welcome to jrcookandassociates.net!
