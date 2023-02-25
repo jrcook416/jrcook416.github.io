@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Welcome to jrcookandassociates.net!
+Welcome to jrcookandassociates.net! This is my home on the Web for all of my writing.  
+You can find my audiovisual work on my WordPress blog at [jeremiahcook.net](https://jeremiahcook.net).  
