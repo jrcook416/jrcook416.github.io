@@ -17,7 +17,8 @@ One of the things that I do is teach certification courses for my agencies.  If 
 		<br>Unlike IFSTA, Jones and Bartlett charges for access to their learning management system.  The cost is built into each student textbook - you determine which level of features and access you'll be using.  BUT - once you create a course, it can be copied and re-launched as many times as you'd like. </li>
 		<li>Regardless of whether you choose IFSTA or Jones and Bartlett, learning management systems take a lot of the work out of out-of-class activities, especially testing, and both publishers use Moodle - IFSTA uses it out of the box, and Jones and Bartlett has some extra functionality built in. Take the time and learn how Moodle works - it can be an indispensible part of your class.</li>
 	</ul>
-<li> Both the Fire and Public Safety Academy and EMS Section require a complete syllabus and schedule submitted prior to class listing on Acadis.  I have a few sample course syllabus documents here. </li>
+<li> Both the Fire and Public Safety Academy and EMS Section require a complete syllabus and schedule submitted prior to class listing on Acadis.  I have a few sample course syllabus documents here. </li></ol>
+
 
 Please recognize that a lot of these resources have been built over a long period of time, and in some cases, I am not the original source of these resources.  I have noted where the work is mine, and where the work is not mine.  Please properly recognize the creators of this material.
 
