@@ -1,6 +1,7 @@
 ---
 layout: page
 title: EMR Resources
+permalink: /emr/
 exclude: true
 ---
 I have compiled a list of all of my Indiana certification classes and class presentations here, with a short synopsis of training where applicable.
