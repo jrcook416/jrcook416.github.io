@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: EMR Class Resources
 permalink: /certifications/emr/
 ---
