@@ -3,6 +3,8 @@ layout: page
 title: Certifications
 permalink: /certifications/
 ---
+[Getting Curriculum Materials](https://jrcookandassociates.net/certifications/curriculum.html)
+
 One of the things that I do is teach certification courses for my agencies.  If you're just getting into teaching certification courses, you'll notice that beyond a basic curriculum, there's not much out there.  Here's some help:
 
 <ol>
