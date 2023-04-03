@@ -7,8 +7,9 @@ One of the biggest challenges that new Fire instructors face is finding training
 
 I have worked with both IFSTA and Jones and Bartlett, mainly on books that are part of the Indiana Department of Homeland Security Fire and Public Safety Academy's certification matrix.  It's been a while, but I've also worked with PennWell/Clarion on individual titles.  The remainder of this page will talk about state-sanctioned certification course curriculum for Academy courses. 
 
-The curriculum is selected by a committee of subject-matter experts working on behalf of the Academy. They pick training curriculum that supports the newest NFPA standards, and they often do this around six months to a year after the standards are released to the public.  The textbook publishers keep their materials consistent with the consensus standards so that you don't have to do the guesswork, as long as you're following their training plans.   
-	<ul>
+The curriculum is selected by a committee of subject-matter experts working on behalf of the Academy. They pick training curriculum that supports the newest NFPA standards, and they often do this around six months to a year after the standards are released to the public.  The textbook publishers keep their materials consistent with the consensus standards so that you don't have to do the guesswork, as long as you're following their training plans.
+   
+<ul>
 		<li>John Konrad represents IFSTA.  You can call him at 310-625-7044 or reach him via email at konradj@osufpp.org. You will need to specify which books you're teaching from. 
 		<br>IFSTA will usually provide you a paper desk copy OR electronic desk copy and access to ResourceOne, their learning management system. 
 		<br>Please note that if you are not an established instructor, you'll need a letter from your Chief or municipality stating your qualifications and the authority to receive curriculum material - this often includes test bank information which is confidential. 
@@ -17,6 +18,6 @@ The curriculum is selected by a committee of subject-matter experts working on b
 		<br>You will also need to specify how many students you'll be teaching and when the class will be. Jones and Bartlett will usually provide you a paper desk copy OR electronic desk copy and curriculum electronically through Navigate. 
 		<br>Unlike IFSTA, Jones and Bartlett charges for access to their learning management system.  The cost is built into each student textbook - you determine which level of features and access you'll be using.  BUT - once you create a course, it can be copied and re-launched as many times as you'd like. </li>
 		<li>Regardless of whether you choose IFSTA or Jones and Bartlett, learning management systems take a lot of the work out of out-of-class activities, especially testing, and both publishers use Moodle - IFSTA uses it out of the box, and Jones and Bartlett has some extra functionality built in. Take the time and learn how Moodle works - it can be an indispensible part of your class.</li>
-	</ul>
+</ul>
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
