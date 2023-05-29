@@ -3,25 +3,32 @@ layout: page
 title: Training Classes
 permalink: /training/
 ---
-I have compiled a list of all of my Indiana certification classes and class presentations here, with a short synopsis of training where applicable.
+I have compiled a list of all of my Indiana certification classes and class presentations here, 
+with a short synopsis of training where applicable.
 
 # Current Certification Classes #
-**EMR0067** Emergency Medical Responder for the Gregg Township Fire Department.
+**Indiana EMS Primary Instructor Mentorship** 
+I am currently in my Primary Instructor Mentorship with **Indianapolis EMS/Eskenazi Health.** 
 
 # Future Certification Classes #
 
-There will be an Emergency Response Support class for the Gregg Township Fire Department starting in 2Q or 3Q 2023, followed by a Fire Academy (HMA, HMO, FF1, FF2) in 3Q or 4Q 2023.
+As of Memorial Day 2023, I do not plan on offering any certification classes through the end of 3Q-2023.
 
 # Future Presentations #
 
 I am currently not scheduled to speak at any sites as of 1Q 2023.
 
 # Past Presentations #
-**Technology in the Fire Service Classroom** Technology in the Fire Service Classroom for the Indiana Fire Instructors Association at the Indiana Fire Instructors Association Conference, January 26, 2019.
+**Technology in the Fire Service Classroom** 
+Technology in the Fire Service Classroom for the Indiana Fire Instructors Association at the 
+Indiana Fire Instructors Association Conference, January 26, 2019.
 
-**Technology in the Fire Service Classroom** Technology in the Fire Service Classroom for the Indiana Fire Instructors Association at the Riley Fire Department, April 29, 2019.
+**Technology in the Fire Service Classroom** 
+Technology in the Fire Service Classroom for the Indiana Fire Instructors Association at the 
+Riley Fire Department, April 29, 2019.
 
-**Teaching with Technology** Teaching with Technology (Technology in the Fire Service Classroom v2.0) for the Indiana Fire Instructors Association at the Indiana Fire Instructors Association Conference, January 11, 2020.
+**Teaching with Technology** Teaching with Technology (Technology in the Fire Service Classroom v2.0) 
+for the Indiana Fire Instructors Association at the Indiana Fire Instructors Association Conference, January 11, 2020.
 
 # Past Certification Classes #
 **E49-11-16** EMS-EVOC for Indianapolis EMS.
@@ -37,3 +44,5 @@ I am currently not scheduled to speak at any sites as of 1Q 2023.
 **INST10115** Instructor I for the Indiana Fire Instructors Association.
 
 **INST10197** Instructor I for the Indiana Fire Instructors Association.
+
+**EMR0067** Emergency Medical Responder for the Gregg Township Fire Department.
