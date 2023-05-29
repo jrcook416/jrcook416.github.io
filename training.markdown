@@ -7,8 +7,8 @@ I have compiled a list of all of my Indiana certification classes and class pres
 with a short synopsis of training where applicable.
 
 # Current Certification Classes #
-**Indiana EMS Primary Instructor Mentorship** 
-I am currently in my Primary Instructor Mentorship with **Indianapolis EMS/Eskenazi Health.** 
+**Indiana EMS Primary Instructor Mentorship** --
+I am currently in my Primary Instructor Mentorship with Indianapolis EMS Academic Services. 
 
 # Future Certification Classes #
 
@@ -16,7 +16,7 @@ As of Memorial Day 2023, I do not plan on offering any certification classes thr
 
 # Future Presentations #
 
-I am currently not scheduled to speak at any sites as of 1Q 2023.
+As of Memorial Day 2023, I am not scheduled to speak at any conferences or workshops..
 
 # Past Presentations #
 **Technology in the Fire Service Classroom** 
