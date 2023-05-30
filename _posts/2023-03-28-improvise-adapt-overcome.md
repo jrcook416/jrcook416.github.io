@@ -2,7 +2,7 @@
 layout: post
 title: Improvise...Adapt...Overcome
 date: 2023-03-28 14:14:02 -0400
-category: 
+category: personal 
 tags: []
 ---
 
