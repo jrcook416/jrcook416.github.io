@@ -8,15 +8,16 @@ with a short synopsis of training where applicable.
 
 # Current Certification Classes #
 **Indiana EMS Primary Instructor Mentorship** --
-I am currently in my Primary Instructor Mentorship with Indianapolis EMS Academic Services. 
+I passed the Indiana Primary Instructor examination on June 26, 2023, and I completed my Primary Instructor 
+Mentorship on June 29, 2023.  The final paperwork is with the EMS Commission for processing.
 
 # Future Certification Classes #
 
-As of Memorial Day 2023, I do not plan on offering any certification classes through the end of 3Q-2023.
+I do not plan on offering any certification classes through the end of 3Q-2023.
 
 # Future Presentations #
 
-As of Memorial Day 2023, I am not scheduled to speak at any conferences or workshops..
+I am not scheduled to speak at any conferences or workshops through the end of 2023. 
 
 # Past Presentations #
 **Technology in the Fire Service Classroom** 
