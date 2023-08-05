@@ -16,6 +16,7 @@ Public Safety Identification Number #6281-8654
 | EMS - Emergency Medical Technician |12/13/2010 - 12/31/2024|
 | EMS - Emergency Vehicle Operator   |09/10/2014 - 06/30/2025|
 | EMS - EVOC Instructor              |02/05/2016 - 03/31/2024|
+| EMT - Primary Instructor           |07/12/2023 - 09/30/2025
 | Fire Officer I                     |09/06/2019             |
 | Fire Officer Strategy and Tactics  |05/20/2016             |
 | Firefighter I                      |12/11/2007             |
