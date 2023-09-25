@@ -8,7 +8,6 @@ Indiana Department of Homeland Security Certifications<br>
 Public Safety Identification Number #6281-8654
 </b></center>
 
-
 | Indiana DHS Certification          |Date                   |
 |------------------------------------|-----------------------|
 | Driver Operator General/Pumper     |11/10/2016             |
@@ -26,15 +25,19 @@ Public Safety Identification Number #6281-8654
 | Fire Instructor I                  |03/21/2016 - 05/20/2024|
 | Fire Instructor II/III             |03/21/2018 - 05/20/2024|
 | Mandatory Firefighter              |08/06/2007             |
-| Technical Rescue Awarenessl        |03/28/2018             |
+| Technical Rescue Awareness         |03/28/2018             |
 
 <center><b>National Incident Management System Certificates</b></center>
 
-
-
 <center><b>National Fire Academy Certificates</b></center>
 
-
-
+<center><b>Indiana Department of Education License<br>
+License # 10324665</b> 
+</center>
+|Department of Education License Area |Grades | Expiration Date|
+|-------------------------------------|-------|----------------|
+|Health Science: Emergency Med Svcs   |9-12   |08/09/2025      |
+|Fire Science						  |9-12   |08/09/2025      |
+|First Responder                      |9-12   |08/09/2025      |
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
