@@ -7,13 +7,12 @@ I have compiled a list of all of my Indiana certification classes and class pres
 with a short synopsis of training where applicable.
 
 # Current Certification Classes #
-**Indiana EMS Primary Instructor Mentorship** --
-I passed the Indiana Primary Instructor examination on June 26, 2023, and I completed my Primary Instructor 
-Mentorship on June 29, 2023.  The final paperwork is with the EMS Commission for processing.
+
+**Metropolitan School District of Pike Township** -- I am the EMS Instructor for the Metropolitan School District of Pike Township and will be teaching two closed certification classes, an Emergency Medical Responder class, and an Emergency Medical Technician - Basic class.
 
 # Future Certification Classes #
 
-I do not plan on offering any certification classes through the end of 3Q-2023.
+**Instructor I for IDHS Districts 8 and 10** - I am in discussions with IDHS Districts 8 and 10 to hold an online Fire Instructor I in conjunction with several District instructors.
 
 # Future Presentations #
 
