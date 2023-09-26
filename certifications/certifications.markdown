@@ -29,7 +29,21 @@ Public Safety Identification Number #6281-8654
 
 <center><b>National Incident Management System Certificates</b></center><br>
 
+| National Incident Management System Certificates        | Date Awarded |
+|---------------------------------------------------------|--------------|
+| IS 100: Introduction to Incident Command System         | 12/21/2006   |
+| IS 100.hc: ICS-100 for Health Care/Hospitals               | 01/20/2010   |
+| IS 200: ICS for Single Resources and Initial Action Incidents | 06/17/2007|
+| IS 200.a: ICS for Single Resources and Initial Action Incidents | 01/27/2010|
+| IS 700: Nat'l Incident Management System, an Introduction | 06/28/2007 |
+| IS 800.a: Nat'l Response Plan, an Introduction | 07/31/2007 |
+
 <center><b>National Fire Academy Certificates</b></center><br>
+
+| National Fire Academy Certificates            | Date Awarded |
+|-----------------------------------------------|--------------|
+| Q324: ICS Simulation Series, Ranch House      | 10/23/2009   |
+| 1722: Health and Safety Program Manager		| 01/11/2022   |
 
 <center><b>Indiana Department of Education License<br>
 License # 10324665</b> 
