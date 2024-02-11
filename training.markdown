@@ -8,15 +8,15 @@ with a short synopsis of training where applicable.
 
 # Current Certification Classes #
 
-**Metropolitan School District of Pike Township** -- I am the EMS Instructor for the Metropolitan School District of Pike Township and will be teaching two closed certification classes, an Emergency Medical Responder class, and an Emergency Medical Technician - Basic class.
+**Metropolitan School District of Pike Township - EMT0363** -- I am the EMS Instructor for the Metropolitan School District of Pike Township.  We are currently in the second semester of an Emergency Medical Technician - Basic class.
 
 # Future Certification Classes #
 
-**Instructor I for IDHS Districts 8 and 10** - I am in discussions with IDHS Districts 8 and 10 to hold an online Fire Instructor I in conjunction with several District instructors.
+I am not scheduled to teach any certification classes through the end of 2024.
 
 # Future Presentations #
 
-I am not scheduled to speak at any conferences or workshops through the end of 2023. 
+I am not scheduled to speak at any conferences or workshops through the end of 2024. 
 
 # Past Presentations #
 **Technology in the Fire Service Classroom** 
@@ -29,6 +29,8 @@ Riley Fire Department, April 29, 2019.
 
 **Teaching with Technology** Teaching with Technology (Technology in the Fire Service Classroom v2.0) 
 for the Indiana Fire Instructors Association at the Indiana Fire Instructors Association Conference, January 11, 2020.
+
+**Choices - Good and Bad**: I was honored to be the first guest speaker for MSD Pike Township Lincoln Middle School's MANE program on January 29, 2024.  My presentation to the 6th, 7th, and 8th graders focused on the good and bad choices I've made in my life that have led me to where I am, and how choices they make now impact their lives.  They also asked a lot of questions about my EMS and Fire career.   
 
 # Past Certification Classes #
 **E49-11-16** EMS-EVOC for Indianapolis EMS.
